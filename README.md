@@ -1,6 +1,6 @@
 ### Hi, I'm Letlhogonolo Kgatshe
 
-Final-year **Computer Science** student at IIE Varsity College, Cape Town, and an aspiring **data analyst**. I like turning messy data into clear answers, and building the software that data lives in.
+Final-year **Computer Science** student at IIE Emeris, Cape Town, and an aspiring **data analyst**. I like turning messy data into clear answers, and building the software that data lives in.
 
 - 📊 Focus: data analytics, SQL, cloud data services (Azure, Firestore)
 - 🎓 82.5% average, with 19 distinctions from 20 modules
