@@ -1,4 +1,4 @@
-### Hi, I'm Letlhogonolo 👋
+### Hi, I'm Letlhogonolo Kgatshe
 
 Final-year **Computer Science** student at IIE Varsity College, Cape Town, and an aspiring **data analyst**. I like turning messy data into clear answers, and building the software that data lives in.
 
